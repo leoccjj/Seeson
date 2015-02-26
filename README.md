@@ -1,6 +1,6 @@
 # Project Seeson
 ## About 
-Project SEESON is a simple weather app developing in Android
+Project SEESON is a simple weather app developed in Android
 ## Born
 27/2/2015
 ## Note
